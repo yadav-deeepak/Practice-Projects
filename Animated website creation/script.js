@@ -1,4 +1,4 @@
-const scroll = new LocomotiveScroll({  //smooth scrolling using locomotivejs
+const scroll = new LocomotiveScroll({  //smooth scrolling using locomotivejs//
     el: document.querySelector('#main'),
     smooth: true
 });
